@@ -1,4 +1,5 @@
 #Instala la librería de pretty_midi
+#Referencia https://crimier.github.io/posts/miditofreqs/
 #pip install pretty_midi
 
 import math
